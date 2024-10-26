@@ -1,0 +1,44 @@
+cbsa_type,cbsa_name,cbsa_id,primary_care,dental_care,mental_health,mua,mup,mua_ge,mup_ge
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,YES,YES,NO,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Davenport-Moline-Rock Island, IA-IL Metro Area,CBSA ID: 19340,YES,NO,YES,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Cedar Rapids, IA Metro Area,CBSA ID: 16300,NO,NO,YES,NO,NO,NO,YES
+CBSA Type: Metropolitan,CBSA Name: Iowa City, IA Metro Area,CBSA ID: 26980,YES,YES,YES,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Waterloo-Cedar Falls, IA Metro Area,CBSA ID: 47940,YES,YES,YES,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Sioux City, IA-NE-SD Metro Area,CBSA ID: 43580,YES,YES,YES,YES,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,NO,NO,NO,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Dubuque, IA Metro Area,CBSA ID: 20220,NO,NO,NO,YES,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,NO,NO,NO,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Ames, IA Metro Area,CBSA ID: 11180,YES,YES,YES,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Omaha, NE-IA Metro Area,CBSA ID: 36540,NO,NO,YES,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,NO,NO,NO,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Cedar Rapids, IA Metro Area,CBSA ID: 16300,NO,NO,YES,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Waterloo-Cedar Falls, IA Metro Area,CBSA ID: 47940,YES,YES,YES,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Davenport-Moline-Rock Island, IA-IL Metro Area,CBSA ID: 19340,NO,NO,NO,NO,NO,NO,NO
+CBSA Type: Micropolitan,CBSA Name: Marshalltown, IA Micro Area,CBSA ID: 32260,YES,YES,YES,YES,NO,NO,NO
+CBSA Type: Micropolitan,CBSA Name: Mason City, IA Micro Area,CBSA ID: 32380,YES,NO,YES,NO,NO,NO,NO
+CBSA Type: Micropolitan,CBSA Name: Ottumwa, IA Micro Area,CBSA ID: 36900,YES,YES,YES,YES,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,NO,NO,NO,NO,NO,NO,NO
+CBSA Type: Micropolitan,CBSA Name: Fort Dodge, IA Micro Area,CBSA ID: 22700,YES,YES,YES,NO,NO,YES,NO
+CBSA Type: Micropolitan,CBSA Name: Clinton, IA Micro Area,CBSA ID: 17540,YES,YES,YES,NO,NO,NO,NO
+CBSA Type: Micropolitan,CBSA Name: Burlington, IA-IL Micro Area,CBSA ID: 15460,YES,YES,YES,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,NO,NO,NO,NO,NO,NO,NO
+CBSA Type: Micropolitan,CBSA Name: Muscatine, IA Micro Area,CBSA ID: 34700,YES,YES,YES,NO,NO,YES,NO
+CBSA Type: Metropolitan,CBSA Name: Iowa City, IA Metro Area,CBSA ID: 26980,YES,YES,NO,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Iowa City, IA Metro Area,CBSA ID: 26980,YES,YES,NO,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,NO,NO,NO,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,NO,NO,NO,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,NO,NO,YES,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,YES,NO,YES,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,NO,NO,NO,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,NO,NO,NO,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Ames, IA Metro Area,CBSA ID: 11180,NO,NO,YES,NO,NO,NO,NO
+CBSA Type: Micropolitan,CBSA Name: Oskaloosa, IA Micro Area,CBSA ID: 36820,YES,YES,YES,NO,NO,NO,NO
+CBSA Type: Micropolitan,CBSA Name: Spencer, IA Micro Area,CBSA ID: 43980,YES,YES,YES,NO,NO,NO,NO
+CBSA Type: Micropolitan,CBSA Name: Storm Lake, IA Micro Area,CBSA ID: 44740,YES,YES,YES,NO,NO,YES,NO
+CBSA Type: Micropolitan,CBSA Name: Pella, IA Micro Area,CBSA ID: 37800,NO,NO,YES,NO,NO,NO,NO
+CBSA Type: Micropolitan,CBSA Name: Le Mars, IA Micro Area,CBSA ID: 30180,NO,NO,YES,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Des Moines-West Des Moines, IA Metro Area,CBSA ID: 19780,NO,NO,NO,NO,NO,NO,NO
+CBSA Type: Metropolitan,CBSA Name: Waterloo-Cedar Falls, IA Metro Area,CBSA ID: 47940,NO,NO,YES,NO,NO,NO,NO
+CBSA Type: Micropolitan,CBSA Name: Fort Madison, IA Micro Area,CBSA ID: 22800,YES,YES,YES,NO,NO,NO,NO
+CBSA Type: Micropolitan,CBSA Name: Carroll, IA Micro Area,CBSA ID: 16140,NO,NO,YES,NO,NO,YES,NO
+CBSA Type: Micropolitan,CBSA Name: Fort Madison, IA Micro Area,CBSA ID: 22800,YES,YES,YES,NO,NO,NO,NO
